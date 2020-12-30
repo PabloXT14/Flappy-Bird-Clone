@@ -7,6 +7,9 @@ public class Player : MonoBehaviour
     public float Speed;
     private Rigidbody2D rig;
 
+    public GameObject GameOver;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,4 +25,11 @@ public class Player : MonoBehaviour
         }
 
     }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        GameOver.SetActive(true);
+        Time.timeScale = 0;
+    }
+
 }
