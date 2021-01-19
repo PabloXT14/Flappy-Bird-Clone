@@ -1,7 +1,8 @@
 # Flappy-Bird-Clone
 Recriando o jogo Flappy Bird
 <h2>
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.pngg">Como Executar o Projeto
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png" width=24px>
+Como Executar o Projeto
 </h2>
 <p>
 Para executar o jogo é necessário ter instalado em sua máquina:
