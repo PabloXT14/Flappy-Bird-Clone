@@ -9,9 +9,11 @@ Recriando o jogo Flappy Bird
 <br>
 
 <h2>🚀 Tecnologias</h2>
-<p>✔Linguagem C#</p>
-<p>✔Editor de Código (VS Code/VS Comunity)</p>
-<p>✔Assets baixados da internet</p>
+✔Linguagem C#
+<br>
+✔Editor de Código (VS Code/VS Comunity)
+<br>
+✔Assets baixados da internet
 
 <br>
 
